@@ -1,0 +1,101 @@
+Patient_ID,Visit_Date,Treatment_Type,Cost,Age,Gender,Payment_Status
+1,01-01-2023,Braces,300,36,F,Unpaid
+2,06-01-2023,Extraction,100,40,F,Unpaid
+3,11-01-2023,Braces,800,31,M,Paid
+4,16-01-2023,Braces,300,27,M,Paid
+5,21-01-2023,Extraction,800,20,M,Paid
+6,26-01-2023,Root Canal,300,32,M,Unpaid
+7,31-01-2023,Braces,500,34,F,Unpaid
+8,05-02-2023,Cleaning,200,30,M,Unpaid
+9,10-02-2023,Extraction,800,23,F,Unpaid
+10,15-02-2023,Root Canal,800,54,M,Unpaid
+11,20-02-2023,Extraction,200,42,M,Unpaid
+12,25-02-2023,Extraction,200,55,M,Paid
+13,02-03-2023,Cleaning,100,37,M,Unpaid
+14,07-03-2023,Braces,100,29,M,Paid
+15,12-03-2023,Cleaning,800,54,M,Paid
+16,17-03-2023,Root Canal,100,44,F,Paid
+17,22-03-2023,Braces,800,60,F,Unpaid
+18,27-03-2023,Extraction,100,60,F,Paid
+19,01-04-2023,Filling,300,49,F,Paid
+20,06-04-2023,Filling,500,40,M,Paid
+21,11-04-2023,Braces,500,37,M,Unpaid
+22,16-04-2023,Braces,200,32,M,Paid
+23,21-04-2023,Extraction,200,56,F,Paid
+24,26-04-2023,Filling,800,33,M,Paid
+25,01-05-2023,Filling,800,45,F,Unpaid
+26,06-05-2023,Filling,800,42,F,Unpaid
+27,11-05-2023,Filling,500,58,F,Paid
+28,16-05-2023,Cleaning,300,59,M,Paid
+29,21-05-2023,Root Canal,100,25,M,Unpaid
+30,26-05-2023,Braces,100,21,M,Unpaid
+31,31-05-2023,Root Canal,500,59,F,Paid
+32,05-06-2023,Extraction,500,38,F,Paid
+33,10-06-2023,Extraction,300,23,F,Unpaid
+34,15-06-2023,Extraction,300,60,M,Paid
+35,20-06-2023,Root Canal,500,42,M,Paid
+36,25-06-2023,Braces,800,48,F,Paid
+37,30-06-2023,Braces,300,49,F,Unpaid
+38,05-07-2023,Braces,500,46,M,Paid
+39,10-07-2023,Root Canal,800,51,M,Paid
+40,15-07-2023,Extraction,300,34,M,Unpaid
+41,20-07-2023,Root Canal,300,22,F,Unpaid
+42,25-07-2023,Extraction,100,40,F,Unpaid
+43,30-07-2023,Cleaning,800,52,F,Unpaid
+44,04-08-2023,Braces,300,25,F,Paid
+45,09-08-2023,Root Canal,300,34,M,Unpaid
+46,14-08-2023,Braces,100,31,M,Paid
+47,19-08-2023,Root Canal,200,46,F,Unpaid
+48,24-08-2023,Filling,800,31,F,Unpaid
+49,29-08-2023,Braces,500,28,M,Paid
+50,03-09-2023,Filling,300,32,F,Paid
+51,08-09-2023,Root Canal,200,41,M,Paid
+52,13-09-2023,Braces,800,23,M,Paid
+53,18-09-2023,Braces,300,58,M,Paid
+54,23-09-2023,Cleaning,800,27,F,Paid
+55,28-09-2023,Filling,200,30,M,Unpaid
+56,03-10-2023,Braces,200,41,F,Unpaid
+57,08-10-2023,Root Canal,200,53,M,Unpaid
+58,13-10-2023,Cleaning,200,35,M,Unpaid
+59,18-10-2023,Extraction,500,20,F,Unpaid
+60,23-10-2023,Root Canal,100,30,M,Unpaid
+61,28-10-2023,Root Canal,100,34,F,Paid
+62,02-11-2023,Extraction,100,39,M,Unpaid
+63,07-11-2023,Cleaning,500,27,F,Paid
+64,12-11-2023,Braces,300,40,M,Paid
+65,17-11-2023,Cleaning,800,20,M,Unpaid
+66,22-11-2023,Root Canal,300,21,M,Unpaid
+67,27-11-2023,Cleaning,800,59,F,Unpaid
+68,02-12-2023,Extraction,100,25,M,Paid
+69,07-12-2023,Braces,500,54,M,Paid
+70,12-12-2023,Cleaning,800,39,F,Paid
+71,17-12-2023,Braces,100,54,M,Paid
+72,22-12-2023,Filling,500,41,F,Unpaid
+73,27-12-2023,Cleaning,100,26,F,Unpaid
+74,01-01-2024,Extraction,300,47,M,Paid
+75,06-01-2024,Extraction,100,34,M,Paid
+76,11-01-2024,Filling,500,35,M,Paid
+77,16-01-2024,Braces,800,60,M,Unpaid
+78,21-01-2024,Cleaning,300,30,F,Paid
+79,26-01-2024,Extraction,500,47,M,Paid
+80,31-01-2024,Filling,500,45,F,Unpaid
+81,05-02-2024,Filling,200,38,F,Unpaid
+82,10-02-2024,Braces,800,23,F,Paid
+83,15-02-2024,Braces,200,31,F,Paid
+84,20-02-2024,Cleaning,300,34,F,Paid
+85,25-02-2024,Braces,800,24,F,Unpaid
+86,01-03-2024,Root Canal,200,26,M,Unpaid
+87,06-03-2024,Cleaning,200,33,F,Unpaid
+88,11-03-2024,Cleaning,500,42,M,Unpaid
+89,16-03-2024,Extraction,500,24,F,Paid
+90,21-03-2024,Extraction,200,25,F,Paid
+91,26-03-2024,Braces,300,60,M,Paid
+92,31-03-2024,Filling,200,54,F,Paid
+93,05-04-2024,Filling,500,28,M,Unpaid
+94,10-04-2024,Root Canal,800,23,M,Unpaid
+95,15-04-2024,Braces,200,59,F,Unpaid
+96,20-04-2024,Filling,100,50,M,Unpaid
+97,25-04-2024,Extraction,800,29,F,Unpaid
+98,30-04-2024,Cleaning,500,24,M,Unpaid
+99,05-05-2024,Cleaning,300,29,M,Paid
+100,10-05-2024,Extraction,500,54,F,Unpaid
